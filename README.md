@@ -1,5 +1,4 @@
-# sbd-powerlifting-game
-An interactive powerlifting game built with Python and Pygame, featuring animated squat, bench press, and deadlift movements.
+
 # SBD — Interactive Powerlifting Game
 
 An interactive Python game combining two of my passions: computer science and competitive powerlifting.

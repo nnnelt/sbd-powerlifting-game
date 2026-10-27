@@ -27,7 +27,6 @@ The project explores interactive programming, animation, user input handling, an
 - Python
 - Pygame
 
-## Running the Game
 
 ## Running the Game
 

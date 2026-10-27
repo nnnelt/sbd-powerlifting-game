@@ -3,6 +3,7 @@
 
 An interactive Python game combining two of my passions: computer science and competitive powerlifting.
 
+ 
 ## About the Project
 
 SBD is a small, independently developed game that allows users to select between the three competitive powerlifting movements: squat, bench press, and deadlift.
@@ -32,5 +33,11 @@ The project explores interactive programming, animation, user input handling, an
 Developed by Nada Eltahhan.
 
 Computer Science graduate | Graduate-level AI & Machine Learning studies | Competitive Powerlifter
+## Gameplay Demo
+
+
+https://github.com/user-attachments/assets/d112f71d-de3e-429e-9177-bd48bfdbc20f
+
+
 
 *Built with the mind of a programmer and the heart of an athlete.*

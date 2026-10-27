@@ -31,7 +31,22 @@ The project explores interactive programming, animation, user input handling, an
 
 1. Install Python.
 2. Install Pygame using `pip install pygame`.
-3. Run the main Python script.
+3. ## How to Run the Game
+
+1. Download or clone this repository.
+2. Open a terminal in the project folder.
+3. Install the dependencies:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+4. Run the game:
+
+```bash
+python sbd_game.py
+```
+4. Run the main Python script.
 
 ## Developer
 
